@@ -1,5 +1,5 @@
 // 20191115131747
-// https://raw.githubusercontent.com/mrebeschini/elastic-siem-workshop/master/pipeline_mitre_geo_winlogbeat.json
+// https://raw.githubusercontent.com/navneet066/elasticsearch-cloud-workshop/master/pipeline_mitre_geo_winlogbeat.json
 
 {
     "description": "Add geoip info and mitre id's",

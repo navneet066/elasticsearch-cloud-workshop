@@ -1,5 +1,5 @@
 // 20191115131724
-// https://raw.githubusercontent.com/mrebeschini/elastic-siem-workshop/master/pipeline_generic_geo.json
+// https://raw.githubusercontent.com/navneet066/elasticsearch-cloud-workshop/master/pipeline_generic_geo.json
 
 {
     "description": "Add geoip info",
