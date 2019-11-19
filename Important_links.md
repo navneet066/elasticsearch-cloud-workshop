@@ -29,3 +29,8 @@ https://attack.mitre.org/
 https://www.anomali.com/resources/what-mitre-attck-is-and-how-it-is-useful
 ```
 
+Benchmarking of Elastic Cluster:
+
+```
+https://dzone.com/articles/benchmarking-elasticsearch-with-rally
+```
