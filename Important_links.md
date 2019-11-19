@@ -26,5 +26,6 @@ Mitre ATT&CK:
 
 ```
 https://attack.mitre.org/
+https://www.anomali.com/resources/what-mitre-attck-is-and-how-it-is-useful
 ```
 
