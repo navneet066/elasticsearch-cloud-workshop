@@ -80,3 +80,9 @@ PUT employees
     }
 }
 ```
+
+### Fine number of shards of an index
+
+```
+GET /_cat/shards/<index>
+```
