@@ -1,11 +1,12 @@
 ### Sample Index
 
 ```
+PUT /employees/_doc/1000
 {
+  "name": "Chandler bing",
+  "employee-id": 1001,
   "email": "abc@xyz.com",
-  "employee-id": 10001
   "age": 32
-  "name": Chandler Bing
 }
 ```
 
